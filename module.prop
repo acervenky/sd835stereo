@@ -1,0 +1,7 @@
+id=sdstereo
+name=Dual Speaker Mod For Snapdragon 835 devices
+version=v1
+versionCode=1
+author=acervenky
+description=Earpiece acts as a secondary speaker for stereo effect
+minMagisk=1500
